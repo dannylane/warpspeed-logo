@@ -1,0 +1,2 @@
+clean ht window
+repeat 5000[home setpencolor random 99 random 99 random 99 rt random 360 fd random 1000]
