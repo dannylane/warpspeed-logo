@@ -1,1 +1,1 @@
-warpspeed.heroku.com
+http://warpspeed.heroku.com
